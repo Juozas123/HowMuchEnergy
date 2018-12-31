@@ -1,0 +1,15 @@
+.footNote {font-size: 12px; }
+
+.headerArea { background-color: lightgray; }
+
+.footerArea { background-color: lightgray; }
+
+.mainContent { margin-left: 35px; }
+
+.listEmptyBuble { list-style-type: circle; }
+
+body { margin: 0px; }
+
+#pageTitle {margin-left: 10px; }
+
+.pageFooterText {margin-left: 10px; margin-right: 10px;}

@@ -1,21 +1,19 @@
 .footNote {font-size: 12px; }
 
-.headerArea { 
-    background-color: lightgray; 
-    position: fixed; 
-    z-index: 2;
-    margin-top: 0px;
-    width: 100%;
-}
+.headerTitle { background-color: lightgray; }
+
+.headerSubTitle { background-color: rgb(240, 240, 240); }
 
 .footerArea { background-color: lightgray; }
 
-.mainContent { margin-left: 35px; position: relative; top: 65px; z-index: 1; }
+.mainContent { margin-left: 35px; }
 
 .listEmptyBuble { list-style-type: circle; }
 
 body { margin: 0px; }
 
 #pageTitle {margin-left: 10px; }
+
+#pageSubTitle {margin-left: 20px;}
 
 .pageFooterText {margin-left: 10px; margin-right: 10px;}
